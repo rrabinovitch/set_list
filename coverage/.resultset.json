@@ -207,6 +207,7 @@
           1,
           null,
           1,
+          1,
           null
         ]
       },
@@ -216,9 +217,87 @@
           null
         ]
       },
-      "/Users/ruthie_turing/turing/2module/classwork/set_list/app/models/song.rb": {
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/spec/features/songs/index_spec.rb": {
         "lines": [
           1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/spec/models/artist_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/app/models/artist.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -229,7 +308,48 @@
           null
         ]
       },
-      "/Users/ruthie_turing/turing/2module/classwork/set_list/app/controllers/songs_controller.rb": {
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/spec/models/song_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/app/models/song.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/app/controllers/artists_controller.rb": {
         "lines": [
           1,
           1,
@@ -244,8 +364,17 @@
           1,
           null
         ]
+      },
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1593659145
+    "timestamp": 1593671731
   }
 }
