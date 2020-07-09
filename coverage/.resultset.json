@@ -220,6 +220,8 @@
           null,
           1,
           1,
+          null,
+          1,
           null
         ]
       },
@@ -307,6 +309,55 @@
           1,
           null,
           1,
+          null,
+          null
+        ]
+      },
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/spec/features/playlists/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
           null,
           null
         ]
@@ -601,6 +652,15 @@
           null
         ]
       },
+      "/Users/ruthie_turing/turing/2module/classwork/set_list/app/controllers/playlists_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/ruthie_turing/turing/2module/classwork/set_list/app/controllers/songs_controller.rb": {
         "lines": [
           1,
@@ -632,6 +692,6 @@
         ]
       }
     },
-    "timestamp": 1594253787
+    "timestamp": 1594256131
   }
 }
