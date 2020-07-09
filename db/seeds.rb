@@ -31,4 +31,3 @@ rap.songs << song_6
 
 # and this create a PlaylistSong table entry in the development database
 PlaylistSong.create!(song: song_5, playlist: favorites)
-binding.pry
