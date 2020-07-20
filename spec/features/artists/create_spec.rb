@@ -18,5 +18,14 @@ RSpec.describe 'create a new artist' do
       expect(current_path).to eq('/artists')
       expect(page).to have_content("Journey")
     end
+
+    it "it populates a flash message when I don't provide an artist with a name" do
+      visit '/artists/new'
+
+      click_on 'Create Artist'
+
+      expect(page).to have_content("Artist not created: Required information is missing")
+      expect(page).to have_button("Create Artist")
+    end
   end
 end
