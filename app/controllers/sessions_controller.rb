@@ -15,4 +15,9 @@ class SessionsController < ApplicationController
       redirect_to "/login"
     end
   end
+
+  # logout functionality: create a route for logout that points to a destroy method that finds if the user has a session and setting it to nil
+  # def delete
+    # session[:user_id] = nil
+  # end
 end
