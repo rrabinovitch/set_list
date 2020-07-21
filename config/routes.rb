@@ -29,4 +29,9 @@ Rails.application.routes.draw do
   get '/playlists', to: 'playlists#index'
 
   patch '/cart/:song_id', to: 'cart#update'
+
+  namespace :admin do
+    # only admin users will be able to reach this resource
+    get '/dashboard', to: 'dashboard#index'
+  end
 end
